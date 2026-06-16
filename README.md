@@ -6,6 +6,10 @@
 
 PDF 파일은 강의 자료 열람용이고, PPTX 파일은 강의자가 수정할 수 있는 원본 슬라이드입니다.
 
+## 데이터 출처
+
+수업 실습 및 프로젝트에서 사용하는 데이터는 NTP/NICEATM Integrated Chemical Environment (ICE)의 [ICE Data Sets](https://ice.ntp.niehs.nih.gov/DATASETDESCRIPTION) 페이지를 출처로 합니다.
+
 ## 수업에서 다루는 내용
 
 - Python과 Jupyter Notebook 기본 사용법
